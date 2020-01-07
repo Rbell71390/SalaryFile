@@ -1,0 +1,6 @@
+January     12000.00
+February    11500.00
+March        9500.00
+April       13000.00
+May         10600.00
+June        14400.00

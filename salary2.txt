@@ -1,0 +1,3 @@
+August     5500.00
+September  6600.00
+October    8800.00
